@@ -1,12 +1,1 @@
-{
-  "keys": {
-    "JczUusCPL02lHGoQ": {
-      "status": "used",
-      "discord_id": "710015947158585374"
-    },
-    "Murad": {
-      "status": "active",
-      "discord_id": "710015947158585374"
-    }
-  }
-}
+{"keys": {"JczUusCPL02lHGoQ": {"status": "used", "discord_id": "710015947158585374"}, "Murad": {"status": "used", "discord_id": "710015947158585374"}}}
