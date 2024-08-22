@@ -1,1 +1,12 @@
-{"keys": {"Murad": {"status": "used", "discord_id": "710015947158585374"}}}
+{
+  "keys": {
+    "Murad": {
+      "status": "used",
+      "discord_id": "710015947158585374"
+    },
+    "Fatz": {
+      "status": "active",
+      "discord_id": "948486513237307413"
+    }
+  }
+}
