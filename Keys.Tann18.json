@@ -3,14 +3,7 @@
     "Gay": {
       "status": "active",
       "discord_id": "447964099427434498"
-    },
-    "zhuw57xvekfRfSfw": {
-      "status": "used",
-      "discord_id": "zhuw57xvekfRfSfw",
-      "device_id": "9dedb5d7d2b4d91da80b3870fe6e339fa2643d9f74e5ee9725deb84f55b65d23"
     }
   },
-  "expiration_times": {
-    "zhuw57xvekfRfSfw": 1724385254
-  }
+  "expiration_times": {}
 }
