@@ -10,8 +10,9 @@
       "device_id": "9dedb5d7d2b4d91da80b3870fe6e339fa2643d9f74e5ee9725deb84f55b65d23"
     },
     "Fatzz": {
-      "status": "active",
-      "discord_id": "948486513237307413"
+      "status": "used",
+      "discord_id": "948486513237307413",
+      "device_id": "73451356259689f94c883e247f70b6beaa71d9f5b498b3dc2db53b3ee11608af"
     }
   },
   "expiration_times": {}
