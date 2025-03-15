@@ -8,10 +8,12 @@
     "Murad": {
       "status": "active",
       "discord_id": "",
+      "device_id": null
     },
     "Mura": {
       "status": "active",
-      "discord_id": "710015947158585374"
+      "discord_id": "710015947158585374",
+      "device_id": null
     }
   },
   "expiration_times": {}
